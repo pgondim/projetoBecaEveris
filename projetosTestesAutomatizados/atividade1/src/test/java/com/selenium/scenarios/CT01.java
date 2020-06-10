@@ -38,7 +38,7 @@ public class CT01 {
 	@Test
 	public void test() {
 		
-		//se leciona qual formulário quer preencher
+		//seleciona qual formulário quer preencher
 		//e clica no botão "View Demo" de um card
 		inicioPage.selecionarTipoFormulario();
 		
